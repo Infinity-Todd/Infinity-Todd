@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToddZhuChenyi
-- 👀 I’m interested in 
+- 👀 I’m interested in soccer 
 - 🌱 I’m currently learning python pycharm data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
