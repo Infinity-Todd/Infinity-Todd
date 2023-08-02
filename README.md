@@ -14,4 +14,4 @@ I'd like to do project that has relation to data analysis. :ghost:
 :star: Here are some projects that I'm working on:
 - Data analysis
 - Machine learning
-- visualization
+- Visualization
