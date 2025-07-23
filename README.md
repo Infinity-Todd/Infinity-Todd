@@ -9,8 +9,8 @@
 ---
 ## 🚀 About Me | 关于我
 
-- 👋 Hi! I'm **Todd Zhu (陈亦)**, a 20 y.o. 🐍 Pythonista & RL Enthusiast
-- 📍 Based in **[Ningbo/China]**
+- 👋 Hi! I'm **Todd Zhu**, a 20 y.o. 🐍 Pythonista & Data Scientist
+- 📍 Based in **Ningbo/China**
 - 🧠 **Currently diving into:** Reinforcement Learning, Deep Learning, Robotics
 - 🛠️ **常用工具/Skills:** Python, NumPy, Pandas, PyTorch, Gymnasium, PyCharm
 - 🔭 **开放合作/Collab:** Always happy to connect & work on open source!
