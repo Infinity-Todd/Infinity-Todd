@@ -19,7 +19,7 @@
 
 ## 🏆 Main Projects | 项目精选
 
-- 🐍 [**Snake RL Project**]([https://github.com/你的snake仓库](https://github.com/Infinity-Todd/snake-rl))  
+- 🐍 [**Snake RL Project**](https://github.com/Infinity-Todd/snake-rl)  
   <sub>可定制的贪吃蛇强化学习环境，支持 Gymnasium & Stable-Baselines3</sub>
 
 ## 💡 Skills | 技能清单
