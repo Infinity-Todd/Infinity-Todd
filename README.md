@@ -21,7 +21,7 @@
 
 - 🐍 [**Snake RL Project**](https://github.com/Infinity-Todd/snake-rl)  
   <sub>可定制的贪吃蛇强化学习环境，支持 Gymnasium & Stable-Baselines3</sub>
-
+---
 ## 💡 Skills | 技能清单
 
 | 🚩 Language  |  💻 Libraries/Tools     | 🧩 Areas         |
