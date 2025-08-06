@@ -41,7 +41,7 @@
 
 - 🚴‍♂️ Love soccer, sci-fi, modeling, and robotics!
 - 💬 I can help you with RL environments, data cleaning, and visualization
-- 🌱 正在成长为一名**AI工程师**！
+- 🌱 On my way to becoming an **AI engineer**!
 
 ## 📫 Contact | 联系我
 
