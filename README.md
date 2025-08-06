@@ -46,7 +46,7 @@
 ## 📫 Contact | 联系我
 
 - Email: [chz111@ucsd.edu](mailto:chz111@eucsd.edu)
-- Wechat:
+- Wechat ID: Infinity-Todd
 
 ---
 
