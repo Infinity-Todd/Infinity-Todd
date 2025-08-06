@@ -30,8 +30,8 @@
 | 🚩 Language  |  💻 Libraries/Tools     | 🧩 Areas         |
 | :----------- | :--------------------- | :-------------- |
 | Python 🐍    | NumPy, Pandas, PyTorch, Gymnasium, Matplotlib | Data Science, RL, ML, Visualization |
-| Markdown ✍️  | VS Code, PyCharm, Git  | 开发与文档、协作 |
-| English 🇺🇸  |                        | 英文项目沟通    |
+| Markdown ✍️  | VS Code, PyCharm, Git  |  Documentation, Collaboration |
+| English 🇺🇸  |                        | Technical communication in English |
 
 ---
 
