@@ -20,7 +20,10 @@
 ## 🏆 Main Projects | 项目精选
 
 - 🐍 [**Snake RL Project**](https://github.com/Infinity-Todd/snake-rl)  
-  <sub>可定制的贪吃蛇强化学习环境，支持 Gymnasium & Stable-Baselines3</sub>
+  <sub>A customizable Snake reinforcement learning environment with **reward shaping**, **observation design**, **vectorized training**, and **TensorBoard** logging (Gymnasium + Stable-Baselines3).</sub>
+
+- 🤖 [**Footstep-Guided Humanoid Obstacle Avoidance**](https://github.com/Infinity-Todd/Footstep-Guided-Humanoid-Obstacle-Avoidance)  
+  <sub>Footstep-guided slalom locomotion for the **JRVC-1** humanoid in **MuJoCo** with a **custom PyTorch controller** for stable, collision-free walking; Apple Silicon **MPS** supported.</sub>
 ---
 ## 💡 Skills | 技能清单
 
